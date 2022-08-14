@@ -1,0 +1,105 @@
+
+    body{
+        background-size: cover;
+        background-color: #CDF0EA;
+        margin: 0px;
+        text-align: center;
+        font-family: 'Merriweather', serif;
+
+    }
+    hr{
+        background-color:#CDF0EA;
+        border-color: grey;
+        height: 0px;
+        border-width: 10px;
+        width: 100px;
+        border-style: dotted none none;
+
+        
+    }
+    h1{
+        color: #66bfbf;
+        margin: 0 auto 0 auto ;
+        font-family: 'Sacramento', cursive;
+        font-size: 5.625rem;
+
+        line-height: 4;
+
+    }
+    h2{
+        color: #66BFBF;
+        font-size: 2.5rem; 
+        font-weight: normal;
+    }
+    h3{
+        color: #11999E;
+    }
+   .division{
+    background-color: #CDF0EA;
+    
+   }
+   .middle-container{
+    background-color: #CDF0EA;
+    
+   }
+   .bottom-container{
+    background-color: #CDF0EA;
+   }
+   .dot{
+    text-decoration: underline;
+    display: inline-block;
+   }
+   .cloud-bottom{
+    position: absolute;
+    top: 250px;
+   }
+   .cloud-top{
+    position: absolute;
+    right: 480px;
+    top: 40px;
+   }
+  #head-p{
+    position: relative;
+        top: 70px;
+  }
+  .image-python{
+    height: 187px;
+    width: 25%;
+    
+  }
+  .image-webdev{
+    height: 210px;
+    width: 25%;
+  }
+  .csss{
+    height: 220px;
+    width: 25%;
+  }
+  .htmlll{
+    height: 220px;
+    width: 25%;
+
+  }
+  
+  .class-pa{
+    margin-top: 130px;
+    font-size: 45px;
+  }
+   ::-webkit-scrollbar{
+    width: 15px;
+   }
+   ::-webkit-scrollbar-thumb{
+    background: #9CB4CC;
+   }
+   ::-webkit-scrollbar-track{
+    background: #9DD6DF;
+   }
+   a{
+    color: #11999E;
+   }
+   .skill-row{
+    
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+   }
